@@ -1,4 +1,4 @@
-# Robocap Project
+# RoboCAP Project
 
 Repositório para documentar minha experiência no **Projeto de Extensão Robocap**.
 
