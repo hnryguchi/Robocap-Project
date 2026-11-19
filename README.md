@@ -4,6 +4,8 @@
 
 Registro da minha participação no RoboCAP, projeto de extensão universitária.
 
+Repositório criado em outubro de 2025 em uma conta anterior do autor e migrado para esta conta em novembro de 2026 com o histórico completo (os commits mantêm as datas originais).
+
 ## Atuação no projeto
 
 - Desenvolvimento de projetos com Arduino envolvendo LEDs e sensores.

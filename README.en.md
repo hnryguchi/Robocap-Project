@@ -4,6 +4,8 @@
 
 Record of my participation in RoboCAP, a university outreach project.
 
+Repository created in October 2025 under the author's previous account and migrated to this account in November 2026 with its full history (commits keep their original dates).
+
 ## Role in the project
 
 - Developed Arduino projects involving LEDs and sensors.
